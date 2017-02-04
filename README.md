@@ -12,6 +12,8 @@ La aplicación valida que la fecha de destino no pueda ser menor que la fecha de
 para ello(y para hacer el uso de un calendario) se ha hecho el uso de una libreria llamada [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
 esta permite mostrar el calendario siguiendo la guia de diseño de material design.
 
+![Esquema en Firebase](https://github.com/juanhenriquez/flying.io/blob/master/Screen%20Shot%202017-02-04%20at%2012.17.44%20AM.png)
+
 ### Selcción de Boleteria:
 
 Aqui el usuario puede escoger cuantos *adultos, niños y bebes* viajaran y se puede escoger 
@@ -19,6 +21,8 @@ hasta un maximo de 6 pasajeros por edades. El costo del pasaje del niño y los b
 
 Ademas de poder seleccionar las edades de los pasajeros, también se puede seleccionar la clase del boleto. Las clases disponibles son:
 Business, Economica, Economica Premium y Primera Clase.
+
+![Esquema en Firebas](https://github.com/juanhenriquez/flying.io/blob/master/Screen%20Shot%202017-02-04%20at%2012.17.34%20AM.png)
 
 ### Ver total de la compra:
 
@@ -34,4 +38,5 @@ Uno de los tantos usos que se le puede dar(y el que se uso para esta aplicación
 fuel una base da datos no relacional en real-time. Donde el esquema es usado para los datos
 es el siguiente:
 
+![ola](https://github.com/juanhenriquez/flying.io/blob/master/Screen%20Shot%202017-02-04%20at%2012.17.54%20AM.png)
 
